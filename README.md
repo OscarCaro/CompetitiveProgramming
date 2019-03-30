@@ -14,16 +14,14 @@ There are solutions for the following [¡Acepta el reto!](https://www.aceptaelre
 | ***340 - Cuadrados con cerillas*** | [Acepta El Reto - Cuadrados con cerillas](https://www.aceptaelreto.com/problem/statement.php?id=340) | [ 340 - Cuadrados con cerillas ](https://github.com/Raaaaac/competitive-programming/blob/master/340%20-%20Cuadrados%20con%20cerillas.cpp) |
 | ***350 - El triángulo de mayor área*** | [Acepta El Reto 350 - El triángulo de mayor área](https://github.com/Raaaaac/competitive-programming/blob/master/350_Tri%C3%A1nguloDeMayor%C3%81rea.cpp) | [ 350 - El triángulo de mayor área ](https://github.com/Raaaaac/competitive-programming/blob/master/350_Tri%C3%A1nguloDeMayor%C3%81rea.cpp) |
 | ***369 - Contando en la arena*** | [Acepta El Reto 369 - Contando en la arena](https://www.aceptaelreto.com/problem/statement.php?id=369) | [ 369 - Contando en la arena ](https://github.com/Raaaaac/competitive-programming/blob/master/369%20-%20Contando%20en%20la%20arena.cpp) |
-| ****** | [Acepta El Reto ]() | [ ]() |
-| ****** | [Acepta El Reto ]() | [ ]() |
-
-| ****** | [Acepta El Reto ]() | [ ]() |
-
-| ****** | [Acepta El Reto ]() | [ ]() |
-
-| ****** | [Acepta El Reto ]() | [ ]() |
-
-
-***128 - Florencia***
-
-- []()
+| ***370 - La 13-14*** | [Acepta El Reto - La 13-14](https://www.aceptaelreto.com/problem/statement.php?id=370) | [370 - La 13-14](https://github.com/Raaaaac/competitive-programming/blob/master/370%20-%20La%2013-14.cpp) |
+| ***372 - La farsante de Mary Poppins*** | [Acepta El Reto - La farsante de Mary Poppins](https://www.aceptaelreto.com/problem/statement.php?id=372) | [372 - La farsante de Mary Poppins](https://github.com/Raaaaac/competitive-programming/blob/master/372_LaFarsanteDeMaryPoppins.cpp) |
+| ***373 - Cubos visibles*** | [Acepta El Reto - Cubos visibles](https://www.aceptaelreto.com/problem/statement.php?id=373) | [373 - Cubos visibles](https://github.com/Raaaaac/competitive-programming/blob/master/373_Cubosvisibles.cpp) |
+| ***376 - Siete picos*** | [Acepta El Reto - Siete picos](https://www.aceptaelreto.com/problem/statement.php?id=376) | [376 - Siete picos](https://github.com/Raaaaac/competitive-programming/blob/master/376_SietePicos.cpp) |
+| ***377 - Cuadrados imperfectos*** | [Acepta El Reto - Cuadrados imperfectos](https://www.aceptaelreto.com/problem/statement.php?id=377) | [377 - Cuadrados imperfectos](https://github.com/Raaaaac/competitive-programming/blob/master/377_CuadradosImperfectos.cpp) |
+| ***380 - ¡Me caso!*** | [Acepta El Reto - ¡Me caso!](https://www.aceptaelreto.com/problem/statement.php?id=380) | [380 - ¡Me caso!](https://github.com/Raaaaac/competitive-programming/blob/master/380%20-%20%C2%A1Me%20caso!.cpp) |
+| ***480 - ¿Cuántas pido?*** | [Acepta El Reto - ¿Cuántas pido?](https://www.aceptaelreto.com/problem/statement.php?id=480) | [480 - ¿Cuántas pido?](https://github.com/Raaaaac/competitive-programming/blob/master/480_Cu%C3%A1ntasPido.cpp) |
+| ***481 - Ajedrez asistido por computador*** | [Acepta El Reto - Ajedrez asistido por computador](https://www.aceptaelreto.com/problem/statement.php?id=481) | [481 - Ajedrez asistido por computador](https://github.com/Raaaaac/competitive-programming/blob/master/481_AjedrezAsistidoPorComputador.cpp) |
+| ***482 - Los calcetines de Ian Malcolm*** | [Acepta El Reto - Los calcetines de Ian Malcolm](https://www.aceptaelreto.com/problem/statement.php?id=482) | [482 - Los calcetines de Ian Malcolm](https://github.com/Raaaaac/competitive-programming/blob/master/482%20-%20Los%20calcetines%20de%20Ian%20Malcolm.cpp) |
+| ***483 - Preparando el reloj*** | [Acepta El Reto - Preparando el reloj](https://www.aceptaelreto.com/problem/statement.php?id=483) | [483 - Preparando el reloj](https://github.com/Raaaaac/competitive-programming/blob/master/483_PreparandoElReloj.cpp) |
+| ***485 - Senda pirenaica*** | [Acepta El Reto - Senda pirenaica](https://www.aceptaelreto.com/problem/statement.php?id=485) | [485 - Senda pirenaica](https://github.com/Raaaaac/competitive-programming/blob/master/485_SendaPirenaica.cpp) |
