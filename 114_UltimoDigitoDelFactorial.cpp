@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 	int numOfCases, n, totalNum = 1, lastDigit;
 	cin >> numOfCases;
-	for (int i = 0; i < numOfCases; i++) {
+	for (int j = 0; j < numOfCases; j++) {
 		cin >> n;
 		switch (n) {
 		case 0:
